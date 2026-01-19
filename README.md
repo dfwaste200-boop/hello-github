@@ -1,6 +1,4 @@
-# Hello GitHub
-
-這是我的第一個 GitHub 專案  
-我正在學習如何使用 GitHub
+## Today I Learned
+- 我完成了第一次 GitHub commit
 
  
